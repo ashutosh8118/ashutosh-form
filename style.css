@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('background.jpg');
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-text{
+    width: 100%;
+    position: absolute;
+}4
+.banner-text ul{
+    height: 50px;
+    float: left;
+}
+.banner-text ul li{
+    display: inline-block;
+    padding: 40px 15px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+}
+
+.banner-text h2{
+    margin-top:  0% 0% 0% 0%;
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    
+}
+
+
+
